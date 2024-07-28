@@ -1,1 +1,1 @@
-# next-14-max
+# courses-docs
